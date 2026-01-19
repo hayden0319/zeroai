@@ -1,4 +1,4 @@
-# APIAI / GPTNB 平台能力与产品功能 mapping & adapter对接设计
+# ephone / GPTNB 平台能力与产品功能 mapping & adapter对接设计
 
 ## 1. 多功能聚合平台PRD与第三方API能力字段逐一对标表
 
